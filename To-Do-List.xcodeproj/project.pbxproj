@@ -56,7 +56,6 @@
 				2F891D5122F1E349005DAFFA /* ToDoCell.swift */,
 				2F891D5522F20445005DAFFA /* ToDo.swift */,
 				2F5185DD22F3224400BD9A07 /* RealmServices.swift */,
-				2F5185DF22F328D000BD9A07 /* TableViewExtension.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -66,6 +65,7 @@
 			children = (
 				2FE64EFE22F1D2FE004CDD58 /* ViewController.swift */,
 				2F7E7C5222F2565F008C950F /* InsertViewController.swift */,
+				2F5185DF22F328D000BD9A07 /* TableViewExtension.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -388,6 +388,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RX86963RAL;
 				INFOPLIST_FILE = "To-Do-List/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -406,6 +407,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RX86963RAL;
 				INFOPLIST_FILE = "To-Do-List/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
